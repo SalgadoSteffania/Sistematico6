@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QC7IFWOTyXyi3gG41EES295ZsVRCQkfdSKqrMis39KBnXFxUCRu15Fgb7tTtbuT8zVGWsjCMaa4hB+MPuW5ubg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\STEFFANIA SALGADO\\Desktop\\TercerSistematico-master\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\STEFFANIA SALGADO\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\STEFFANIA SALGADO\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
